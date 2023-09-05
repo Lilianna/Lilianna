@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilianna
 - 👀 I’m interested in geospatial technologies
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently using Java n Python
 - 💞️ I’m looking to collaborate on developing web map applications
 - 📫 How to reach me luongisluong@gmail.com
 
