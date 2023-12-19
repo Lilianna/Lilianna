@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lilianna
+- 👋 Hi, I’m @Emi
 - 👀 I’m interested in geospatial technologies
 - 🌱 I’m currently using Java n Python
 - 💞️ I’m looking to collaborate on developing web map applications
